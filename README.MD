@@ -64,8 +64,8 @@
 
 ## 开源项目
 
- - [Pico UI](https://github.com/vueadmin/vue-pico-ui)：项目的简要说明，Star和Fork数多的可以注明
- - [festival](https://github.com/festivaljs/festival)：项目的简要说明，Star和Fork数多的可以注明
+ - [Pico UI](https://github.com/vueadmin/vue-pico-ui)：基于 pico css 封装的 Vue2 UI组件库
+ - [festival](https://github.com/festivaljs/festival)：无任何依赖，无需异步请求，满足对日期的假期检测，判断是否为调休日等
 
 ## 技术文章
 
